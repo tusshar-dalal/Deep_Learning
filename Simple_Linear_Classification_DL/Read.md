@@ -1,1 +1,1 @@
-Simple Linear Classifier using Neural Networks.
+Simple Linear Classifier on "Breast Cancer" dataset using Neural Networks.
